@@ -1,0 +1,12 @@
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.deps.json
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.dll
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.pdb
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfoInputs.cache
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfo.cs
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.sourcelink.json
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.dll
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\obj\Debug\net10.0\refint\CustomerCommLib.dll
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.pdb
+D:\Cognizant\NUnit and MOQ\Moq Handson\Exercise 1\CustomerCommLib\obj\Debug\net10.0\ref\CustomerCommLib.dll
